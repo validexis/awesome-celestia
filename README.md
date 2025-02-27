@@ -1226,7 +1226,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ---
 
-### VALIDEXIS  
+# VALIDEXIS  
 
 A curated list of tools for Celestia, including guides, scripts, bots, security solutions, and more.  
 
